@@ -15,6 +15,6 @@ m.run = function () {
         console.log("未注册插件【%s】",argv[0]);
     }
     // let ts = require("./module/my-cmd/src/CmdPlugin_build");
-    // let xlsx = require("sheetjs");
+    // let xlsx = require("xlsx");
     // console.log(xlsx);
 }
