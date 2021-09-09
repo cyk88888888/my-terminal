@@ -1,0 +1,20 @@
+{
+  "name": "my-terminal",
+  "version": "1.0.0",
+  "author": "cyk",
+  "license": "ISC",
+  "description": "基于nodeJs的命令行工具",
+  "main": "./code/index.js",
+  "bin": {
+    "my": "./bin/bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyk88888888/my-terminal.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/cyk88888888/my-terminal/issues"
+  },
+  "homepage": "https://github.com/cyk88888888/my-terminal#readme"
+}
